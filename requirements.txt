@@ -7,7 +7,7 @@ idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.14.1
-numpy==1.18.3
+numpy==1.22.0
 Pillow==7.1.1
 protobuf==3.11.3
 pyasn1==0.4.8
